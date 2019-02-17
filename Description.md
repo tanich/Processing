@@ -2,8 +2,4 @@
 * SNSのヘッダー画像を更新することにして新たな画像を探していたが，以前から興味を持っていたクリエイティブな描画表現を得意とする，Processingを用いて画像を制作することにした．
 * 卒業制作で立体音響について研究する予定であり，その技術を利用してメディアアート作品も制作しようと考えていることから，クリエイティブコーディングのイントロダクションとしてよい機会となった．
 
-[![桜](sakura.jpg)](https://www.dropbox.com/s/vku7s2x76xcc6u1/PerlinNoise.jpg?dl=0)
-
-
-[![桜](sakura.jpg)][1]
-[1]: https://www.dropbox.com/s/vku7s2x76xcc6u1/PerlinNoise.jpg?dl=0
+[![実際に作成した画像](sakura.jpg)](https://www.dropbox.com/s/vku7s2x76xcc6u1/PerlinNoise.jpg?dl=0)
