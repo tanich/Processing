@@ -3,3 +3,7 @@
 * 卒業制作で立体音響について研究する予定であり，その技術を利用してメディアアート作品も制作しようと考えていることから，クリエイティブコーディングのイントロダクションとしてよい機会となった．
 
 [![桜](sakura.jpg)](https://www.dropbox.com/s/vku7s2x76xcc6u1/PerlinNoise.jpg?dl=0)
+
+
+[![桜](sakura.jpg)][1]
+[1]: https://www.dropbox.com/s/vku7s2x76xcc6u1/PerlinNoise.jpg?dl=0
